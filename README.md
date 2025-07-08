@@ -42,7 +42,7 @@ I chose his work because it's not overly archaic as Japanese goes, and it's exce
 
 ### 2. Can this framework be misused for translation purposes?
 
-No. This can be done with simple prompts. As of July 9, 2025, it works with DeepSeek R1 and Gemini 2.5 Pro—technologies that are freely available.
+**No**. This can be done with simple prompts. As of July 9, 2025, it works with DeepSeek R1 and Gemini 2.5 Pro—technologies that are freely available.
 
 By leveling the playing field with equal opportunities, young people can dream of making a difference in humanitarian aid and education. I want to support those suffering from despair through technology. When people don't have to despair, they're more likely to contribute to society.
 
