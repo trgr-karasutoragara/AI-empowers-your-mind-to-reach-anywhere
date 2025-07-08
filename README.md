@@ -19,7 +19,7 @@ Have fun!
 1. Please understand the MIT License
 2. Read "A Message from the Heart"
 3. You can view Japanese and English demos on YouTube (URLs are provided below)
-4. Japanese and [English](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-English-Prompt-Example.md) prompt samples are available—please try them in your environment
+4. [Japanese](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-Japanese-Prompt-Examp.md) and [English](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-English-Prompt-Example.md) prompt samples are available—please try them in your environment
 
 ## Demo
 EN https://youtube.com/shorts/KHDA4GdjCRg
