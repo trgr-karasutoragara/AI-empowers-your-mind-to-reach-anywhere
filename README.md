@@ -19,7 +19,7 @@ Have fun!
 1. Please understand the MIT License
 2. Read "A Message from the Heart"
 3. You can view Japanese and English demos on YouTube (URLs are provided below)
-4. Japanese and English prompt samples are available—please try them in your environment
+4. Japanese and [English](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-English-Prompt-Example.md) prompt samples are available—please try them in your environment
 
 ## Demo
 EN https://youtube.com/shorts/KHDA4GdjCRg
@@ -30,15 +30,11 @@ JP https://youtube.com/shorts/zLcUyq-sQ1Y
 
 ### 1. Who owns the copyright to the sample texts in this framework?
 
-The English text is from my own research paper abstract, and I hold the copyright.
+The English text is from [my own research paper](https://www.academia.edu/130269659/future_AI_x_dignity_Two_Year_Zero_Incident_Report_and_Primary_Sources) abstract, and I hold the copyright.
 
-https://www.academia.edu/130269659/future_AI_x_dignity_Two_Year_Zero_Incident_Report_and_Primary_Sources
+The Japanese sample for learning English comes from Torahiko Terada's work, [available here](https://www.aozora.gr.jp/cards/000042/files/2359_13797.html).
 
-The Japanese sample for learning English comes from Torahiko Terada's work, available here:
-
-https://www.aozora.gr.jp/cards/000042/files/2359_13797.html
-
-Aozora Bunko (https://www.aozora.gr.jp/) is a digital library of public domain Japanese content. I believe you'll find authors that resonate with your sensibilities there.
+[Aozora Bunko](https://www.aozora.gr.jp/) is a digital library of public domain Japanese content. I believe you'll find authors that resonate with your sensibilities there.
 
 Torahiko Terada was this person: https://en.wikipedia.org/wiki/Torahiko_Terada
 
