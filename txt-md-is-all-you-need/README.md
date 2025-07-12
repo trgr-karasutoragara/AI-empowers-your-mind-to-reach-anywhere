@@ -118,8 +118,11 @@ I hope you enjoy the experience.
 ## About Aozora Bunko
 
 **Title:** *Rongo Monogatari*
+
 **Author:** Kojin Shimomura
+
 **Source:** Aozora Bunko (Public Domain Library)
+
 https://www.aozora.gr.jp/cards/001097/card42923.html
 
 This work, *Rongo Monogatari*, is a reading material written to inspire interest in the Chinese classic *The Analects of Confucius*.
