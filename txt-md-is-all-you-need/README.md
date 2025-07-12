@@ -1,6 +1,8 @@
 # .txt/md Is All You Need: A Terminal-First, AI-Powered e-Book Companion
 Slow down. Read deeply. Think freely.
 
+Technically minimal, but philosophically novel — this tool isn't about replacing commercial e-readers, it's about rethinking reading itself.
+
 <br>
 
 ## About this project
