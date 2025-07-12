@@ -151,7 +151,58 @@ https://www.aozora.gr.jp/
 
 <br>
 
-## Acknowledgements
+# ./just-zen.py
+## Demo: Terminal-Based AI Reading Companion for Everyone
+https://youtu.be/YjbSlB0EF2I
+
+## Philosophy & Background of Development
+I use my 2018 PC as a home server. By using it as long as possible, I hope to reduce the risk of microplastics.
+
+Therefore, I feel that Ubuntu runs comfortably on a 2018-era PC as of July 13, 2025, when used in CUI/CLI mode.
+
+I removed the Gemma3 1B functionality, kept the API as optional, and made it possible to select .txt and .md files within folders. Since this  a prototype, please adjust it to the features you need.
+
+I focused on reducing setup and usage complexity to make it easier to concentrate on reading. The filename embodies this philosophy.
+
+The YouTube demo shows the opening of the Japanese translation of "Notes from Underground" and displays logs of conversations with Gemini API.
+
+Why not turn your old PC into your personal library? You can access it from your smartphone via SSH. How you use it is up to you.
+
+## Quick Start
+1. Install necessary pip packages on Ubuntu
+2. Verify the shebang line
+   Check that the first line of the file is:
+   ```bash
+   #!/usr/bin/env python3
+   ```
+   (My script already has this written)
+3. Add execution permission
+   ```bash
+   chmod +x just-zen.py
+   ```
+4. Execute directly
+   ```bash
+   ./just-zen.py
+   ```
+
+## Note
+There's also a way to launch with "just-zen". If you're interested, please look it up.
+
+## Book Data Source Used
+
+Title: Notes from Underground
+
+Author: Fyodor Mikhailovich Dostoevsky
+
+Translator: Masao Yonekawa
+
+Source: Aozora Bunko (Public Domain Library)
+
+https://www.aozora.gr.jp/cards/000363/card57393.html
+
+<br>
+
+# Acknowledgements
 **Attention Is All You Need**
 
 https://arxiv.org/abs/1706.03762
@@ -161,10 +212,10 @@ I would like to express my appreciation to everyone involved in the research and
 
 <br>
 
-## License
+# License
 MIT License
 
 <br>
 
-## Author Declaration
+# Author Declaration
 I am an independent volunteer with no conflicts of interest.
