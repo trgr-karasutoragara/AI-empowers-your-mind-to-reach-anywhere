@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 .txt/md Is All You Need - Simple Edition
-A Terminal-First, AI-Powered e-Book Companion (API Only)
-
 Simplified for developing countries and easy setup
 No local AI required - just internet connection
+
+Designed for developing countries and anyone seeking a distraction-free reading experience. Works on any Ubuntu system - read books completely offline, with optional AI chat when internet is available. No complex setup required.
 
 Usage:
     python3 just-zen.py
