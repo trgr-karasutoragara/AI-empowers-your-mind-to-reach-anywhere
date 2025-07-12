@@ -1,4 +1,8 @@
 # .txt/md Is All You Need: A Terminal-First, AI-Powered e-Book Companion
+Slow down. Read deeply. Think freely.
+
+<br>
+
 ## About this project
 
 <img src="https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/txt-md-is-all-you-need/sample/img/Screenshot-2025-07-12%2023.10.28.png" width="400">
