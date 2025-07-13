@@ -89,7 +89,7 @@ class Reader:
         if self.gemini_api_key:
             try:
                 genai.configure(api_key=self.gemini_api_key)
-                self.gemini_model = genai.GenerativeModel('gemini-2.0-flash-exp')
+                self.gemini_model = genai.GenerativeModel('gemini-2.0-flash')
                 self.gemini_available = True
             except Exception as e:
                 print(f"Warning: Gemini API setup failed: {e}")
