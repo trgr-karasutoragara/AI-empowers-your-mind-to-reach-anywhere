@@ -91,7 +91,7 @@ class SimpleReader:
         
         try:
             genai.configure(api_key=api_key)
-            self.gemini_model = genai.GenerativeModel('gemini-2.0-flash-exp')
+            self.gemini_model = genai.GenerativeModel('gemini-2.0-flash')
             return True
         except:
             return False
