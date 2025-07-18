@@ -10,6 +10,8 @@
 ## これは何？
 https://www.youtube.com/watch?v=Q-zjBRlqlvM
 
+https://youtube.com/shorts/wRsZz4s9flQ
+
 ↑
 
 こういうのです
