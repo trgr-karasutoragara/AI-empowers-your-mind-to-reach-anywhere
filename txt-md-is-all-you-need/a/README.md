@@ -1,11 +1,43 @@
-# 🐤ふるさとの青い鳥的、青空文庫リーダー
+# 🐤 Hometown Blue Bird - Aozora Bunko Reader
 
-## FAQ
-### Q: Why is this only available in Japanese?
+*A nostalgic, back-to-basics text reader that brings you home to the simple joy of reading*
 
-**A**: The nostalgic humor and wordplay in "🐤Hometown Blue Bird-esque Aozora Bunko Reader" proved nearly impossible to translate while preserving its cultural nuances. Additionally, our character counting system is calibrated specifically for Japanese fonts and typography. However, since the interface relies mainly on universal elements—file selection, previous/next navigation, and a progress slider—it should be quite usable regardless of language. We warmly welcome localization efforts from the community. We also recommend this tool from a data sovereignty perspective, as everything runs locally on your device.
+## What is this?
+
+Reference videos:
+- https://www.youtube.com/watch?v=Q-zjBRlqlvM  
+- https://youtube.com/shorts/wRsZz4s9flQ
+
+## Features
+
+Read Aozora Bunko and other .txt files directly in your browser (please use UTF-8 encoding for best results).
+
+**Intentionally minimal interface:** Just file loading and a slider - no search functionality. Like a physical book, you remember "around where you left off." We believe the slider is more intuitive than searching, embracing the natural way we navigate through stories.
+
+**Perfect for:** Long, challenging texts that benefit from this unhurried approach. In our information-saturated age, sometimes you need to slow down and let your mind wander. Reading difficult books this way might even help you drift off to sleep.
+
+## Development History
+
+- **[txt-reader-local.html](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/txt-md-is-all-you-need/a/txt-reader-local.html)**: Simple support for Japanese .txt files
+- **[txt-reader-local-v2.html](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/txt-md-is-all-you-need/a/txt-reader-local-v2.html)**: Added English UI option and support for English .txt files
+
+## Design Philosophy
+
+Have we really stopped reading books? We actually process enormous amounts of text daily. People accustomed to social media will find particular benefit in this format - it strips away distractions and returns reading to its essence.
+
+This reader embraces a "hometown" approach to digital reading: familiar, unhurried, and comforting. Like returning to your childhood home, it offers the simple pleasure of getting lost in text without the pressure of productivity or efficiency.
+
+## Demo Data Source
+
+Sample texts from: https://www.aozora.gr.jp/cards/000296/card1864.html
 
 <br>
+
+---
+
+<br>
+
+# 🐤ふるさとの青い鳥的、青空文庫リーダー
 
 ## これは何？
 https://www.youtube.com/watch?v=Q-zjBRlqlvM
@@ -29,6 +61,12 @@ https://youtube.com/shorts/wRsZz4s9flQ
 
 <br>
 
+## 制作履歴
+- **[txt-reader-local.html]**(https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/txt-md-is-all-you-need/a/txt-reader-local.html)はシンプルに日本語の.txtに対応しました。
+- **[txt-reader-local-v2.html]**(https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/txt-md-is-all-you-need/a/txt-reader-local-v2.html)は、UIを英語に変更可能にし、英文.txtも対応しました。
+
+<br>
+
 ## 制作意図・哲学
 我々は本当に本を読まなくなったのでしょうか？　テキストデータ単位なら、処理量多いですよね。また、SNSに慣れている方ほど、このフォーマットの恩恵大きいでしょう。
 某SNS？　ふるさとな感じでお願いします。
@@ -40,10 +78,11 @@ https://www.aozora.gr.jp/cards/000296/card1864.html
 
 <br>
 
-## ライセンス
-MITライセンスです。MITライセンスの範囲で、改変などご自由に。
+# License
+MIT License
 
 <br>
 
-## 著者宣言
-無所属ボランティアなので、利益相反ないです。
+# Author Declaration
+
+I am an unaffiliated volunteer individual, and there is no conflict of interest in this project.
