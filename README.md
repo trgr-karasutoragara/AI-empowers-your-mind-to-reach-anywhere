@@ -1,3 +1,9 @@
+![MIT](https://img.shields.io/github/license/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere)
+![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere)
+
+<br>
+
 # AI empowers your mind to reach anywhere
 
 ## What is this?
