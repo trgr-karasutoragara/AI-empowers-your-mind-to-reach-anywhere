@@ -20,6 +20,8 @@ And teachers can observe whether students are using language and AI appropriatel
 
 Have fun!
 
+<br>
+
 ## Quick Start
 
 1. Please understand the MIT License
@@ -27,10 +29,14 @@ Have fun!
 3. You can view Japanese and English demos on YouTube (URLs are provided below)
 4. [Japanese](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-Japanese-Prompt-Examp.md) and [English](https://github.com/trgr-karasutoragara/AI-empowers-your-mind-to-reach-anywhere/blob/main/Study-English-Prompt-Example.md) prompt samples are available—please try them in your environment
 
+<br>
+
 ## Demo
 EN https://youtube.com/shorts/KHDA4GdjCRg
 
 JP https://youtube.com/shorts/zLcUyq-sQ1Y
+
+<br>
 
 ## FAQ
 
@@ -46,11 +52,15 @@ Torahiko Terada was this person: https://en.wikipedia.org/wiki/Torahiko_Terada
 
 I chose his work because it's not overly archaic as Japanese goes, and it's excellent from an educational perspective.
 
+<br>
+
 ### 2. Can this framework be misused for translation purposes?
 
 **No**. This can be done with simple prompts. As of July 9, 2025, it works with DeepSeek R1 and Gemini 2.5 Pro—technologies that are freely available.
 
 By leveling the playing field with equal opportunities, young people can dream of making a difference in humanitarian aid and education. I want to support those suffering from despair through technology. When people don't have to despair, they're more likely to contribute to society.
+
+<br>
 
 ### 3. Are you trying to replace language teachers with AI?
 
@@ -60,11 +70,15 @@ Therefore, teachers have an even more sophisticated role that only humans can fu
 
 Simply put, this framework aims to free teachers from busywork.
 
+<br>
+
 ### 4. Is it only for Japanese and English?
 
 The UN's official languages are Arabic, Chinese, English, French, Russian, and Spanish.
 
 Japanese, Korean, and any other language should be applicable within the scope of what AI has learned.
+
+<br>
 
 ### 5. What about extensibility?
 
@@ -72,6 +86,8 @@ For example, you could create SQL that records "words you got wrong" in a progra
 By having AI analyze either the SQL itself or exported data to find patterns in vocabulary and grammar you struggle with, your learning could accelerate. If you can build smartphone apps, you might gather users for free and compete with language learning apps by offering advanced analysis through monthly subscriptions.
 
 Alternatively, by selecting a usable Gemma 3 model and running it completely locally, you could protect your privacy and solve data sovereignty issues.
+
+<br>
 
 ### 6. What's the point of learning languages anyway?
 
@@ -81,6 +97,7 @@ You can become a developer on GitHub.
 
 So, AI empowers your mind to reach anywhere.
 
+<br>
 
 ## A Message from the Heart
 Thank you for finding your way to this framework.
@@ -90,11 +107,22 @@ My hope is simple: that this little tool helps someone discover something new, a
 
 So, AI empowers your mind to reach anywhere.
 
+<br>
 
 ## License
 MIT License
 
+<br>
+
+## Repository Policy
+
+- I develop prototypes with a focus on ethics.
+- There are no plans for maintenance or support.
+- The project is released under the MIT License, so feel free to modify it within the scope of the license.
+- Instead of providing support, I create new prototypes to solve emerging problems.
+
+<br>
+
 ## Author Declaration
 I am an independent volunteer with no conflicts of interest.
-
 
